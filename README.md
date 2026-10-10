@@ -53,10 +53,6 @@ pip install numpy scipy matplotlib
 python solusi_no4.py
 ```
 
-Program akan mencetak hasil metode grafik, tabel iterasi simpleks, dan verifikasi `linprog` di terminal, lalu menyimpan `grafik_solusi.png` di folder yang sama.
-
-**Menjalankan di Google Colab:** unggah `solusi_no4.py`, lalu jalankan `!python solusi_no4.py` pada sel baru. Grafik tersimpan sebagai file `grafik_solusi.png` di penyimpanan Colab.
-
 ## Penjelasan Program
 
 | Bagian | Fungsi |
