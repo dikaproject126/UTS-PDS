@@ -37,20 +37,6 @@ Sebuah perusahaan konsultan keamanan siber menawarkan dua layanan analisis keren
 
 **Kesimpulan:** ambil **6 paket Penetration Testing** dan **8 paket Security Audit** per minggu untuk keuntungan maksimum **Rp 152.000.000 per minggu**. Seluruh jam konsultan senior dan junior terpakai penuh.
 
-![Daerah layak dan solusi optimal](grafik_solusi.png)
-
-## Isi Repositori
-
-```
-UTS-PDS/
-├── README.md                                  # dokumen ini
-├── solusi_no4.py                              # program penyelesaian (grafik, simpleks, linprog)
-├── grafik_solusi.png                          # grafik daerah layak (dihasilkan program)
-└── Laporan_UTS_Pemodelan_Simulasi_No4.pdf     # laporan lengkap
-```
-
-> Sesuaikan struktur di atas dengan lokasi file yang sebenarnya, misalnya bila file diletakkan di dalam folder `StudiKasus/`.
-
 ## Cara Menjalankan
 
 **Prasyarat:** Python 3.9 atau lebih baru.
@@ -84,11 +70,11 @@ Program akan mencetak hasil metode grafik, tabel iterasi simpleks, dan verifikas
 
 | No | Nama | NIM | Bagian |
 |---|---|---|---|
-| 1 | ................ | ................ | Identifikasi masalah dan daftar pustaka |
-| 2 | ................ | ................ | Metode grafik |
-| 3 | ................ | ................ | Metode simpleks |
-| 4 | ................ | ................ | Implementasi program dan repositori |
-| 5 | ................ | ................ | Analisa hasil, kesimpulan, dan finalisasi |
+| 1 | I Gusti Putu Chandra Putra Artha Kusuma | 2408561034 | Identifikasi masalah dan daftar pustaka |
+| 2 | I Kadek Januarta Adiguna Winata | 2408561094 | Metode grafik |
+| 3 | Dean Ivan Ryando Damanik | 2408561073 | Metode simpleks |
+| 4 | Ketut Anca Wikan Prastika | 2408561097 | Implementasi program dan repositori |
+| 5 | I Gede Dika Mahendra | 2408561031 | Analisa hasil, kesimpulan, dan finalisasi |
 
 ## Referensi
 
@@ -103,7 +89,3 @@ Program akan mencetak hasil metode grafik, tabel iterasi simpleks, dan verifikas
 [5] C. R. Harris *et al.*, "Array programming with NumPy," *Nature*, vol. 585, no. 7825, pp. 357–362, Sep. 2020, doi: 10.1038/s41586-020-2649-2.
 
 [6] J. D. Hunter, "Matplotlib: A 2D graphics environment," *Comput. Sci. Eng.*, vol. 9, no. 3, pp. 90–95, 2007, doi: 10.1109/MCSE.2007.55.
-
----
-
-*Repositori ini dibuat untuk keperluan akademik (Ujian Tengah Semester).*
